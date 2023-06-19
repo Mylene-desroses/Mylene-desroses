@@ -4,7 +4,8 @@ My name is Mylène Desroses
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP and Vue.js
-
+- 💻  <a href="https://mylene-desroses.github.io/index.html" target="_blank"> Le Portfolio</a>
+ 
 ## 📫 How to reach me : 
 <div style="display: inline_block">
 <a href="mailto:mylene.desroses@oclock.school"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
